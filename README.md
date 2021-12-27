@@ -1,6 +1,6 @@
 ### Prazer, Rodrigo Almeida! 👋
 
-- 🔭 Hoje eu trabalho como Developer Fullstack 
+- 🔭 Atualmente trabalhando como Developer Fullstack C# e SQL Server
 - 🌱 Estudando JavaScript (React.js / React Native / Node.js e Next.js)
 - 💬 Contate-me no e-mail: videntt@gmail.com
 - 😄 Pronouns: ele/dele
