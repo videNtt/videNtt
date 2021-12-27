@@ -12,7 +12,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="videNtt-SQLServer" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="videNtt-SQLServer" height="60" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="videNtt-Azure" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
   <img align="center" alt="videNtt-CSharp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="videNtt-DotNetCore" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
