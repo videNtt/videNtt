@@ -1,6 +1,6 @@
 ### Prazer, Rodrigo Almeida! 👋
 
-- 🔭 Desenvolvedor Fullstack Senior (Backend C# .NET / Frontend: HTML, CSS, jQuery / Banco de dados: SQL Server)
+- 🔭 Desenvolvedor Fullstack Sênior (Backend C# .NET / Frontend: HTML, CSS, jQuery / Banco de dados: SQL Server)
 - 🤝 Líder técnico
 - 🌱 Evoluindo em linguagens reativas e mobile (React.js / React Native / Node.js e Next.js)
 - 💬 Contato: videntt@gmail.com
